@@ -1,4 +1,5 @@
 //Js Draft For Practise Purpose
+//adding just a comment
 let total=0;
 let count=0;
 console.log(count);
