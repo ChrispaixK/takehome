@@ -15,13 +15,13 @@
  */
 
 #error_explanation {
-    padding: 1.5rem;
+  padding: 1.5rem;
 }
 
 #error_explanation > h2 {
-    font-size: 1.0rem;
+  font-size: 1rem;
 }
 
 #error_explanation > ul {
-    font-size: 1.0rem;
+  font-size: 1rem;
 }
